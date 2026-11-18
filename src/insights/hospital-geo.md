@@ -8,7 +8,7 @@ permalink: /insights/hospital-geo/index.html
 ---
 **병원 GEO의 출발점은 진료과목, 의료진, 위치, 진료시간 등 공식 정보의 정확성과 일관성입니다.**
 
-![](</assets/uploads/병원 공식 정보 채널 점검.png>)
+![병원 홈페이지와 온라인 정보 점검을 표현한 AI 생성 이미지](</assets/uploads/병원 공식 정보 채널 점검.png>)
 
 ## 핵심 원칙
 
