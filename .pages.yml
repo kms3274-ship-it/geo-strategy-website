@@ -1,0 +1,40 @@
+media:
+  input: src/assets/uploads
+  output: /assets/uploads
+  categories: [image]
+content:
+  - name: columns
+    label: GEO 칼럼
+    type: collection
+    path: src/insights
+    format: yaml-frontmatter
+    subfolders: false
+    exclude: [insights.11tydata.json]
+    filename: "{year}{month}{day}-{hour}{minute}{second}.md"
+    view:
+      primary: title
+      fields: [title, date]
+      sort: date
+      order: desc
+    fields:
+      - name: title
+        label: 칼럼 제목
+        type: string
+        required: true
+      - name: description
+        label: 요약 설명
+        type: text
+        required: true
+        description: 칼럼 목록과 검색 결과에 표시할 짧은 소개입니다.
+      - name: date
+        label: 게시 날짜
+        type: date
+        required: true
+      - name: body
+        label: 본문
+        type: rich-text
+        required: true
+        description: 제목, 목록, 링크, 사진을 넣어 작성하세요. 저장하면 공개 홈페이지에 반영됩니다.
+settings:
+  content:
+    merge: true
