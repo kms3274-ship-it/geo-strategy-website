@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hospitalgrowthstrategy.netlify.app/sitemap.xml
