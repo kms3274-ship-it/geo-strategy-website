@@ -1,13 +1,14 @@
 ---
-title: "병원 GEO 마케팅, 무엇부터 점검할까?"
-description: "의료기관의 공식 정보와 신뢰성 높은 건강 콘텐츠를 점검하는 방법"
+title: 병원 GEO 마케팅, 무엇부터 점검할까?
+description: 의료기관의 공식 정보와 신뢰성 높은 건강 콘텐츠를 점검하는 방법
 date: 2026-11-18
 tags: posts
 layout: article.njk
-permalink: "/insights/hospital-geo/index.html"
+permalink: /insights/hospital-geo/index.html
 ---
-
 **병원 GEO의 출발점은 진료과목, 의료진, 위치, 진료시간 등 공식 정보의 정확성과 일관성입니다.**
+
+![](</assets/uploads/병원 공식 정보 채널 점검.png>)
 
 ## 핵심 원칙
 
