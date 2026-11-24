@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "eleventy"
+    "build": "eleventy",
+    "test": "node --test"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2"
+  },
+  "dependencies": {
+    "@netlify/blobs": "8.1.0",
+    "fast-xml-parser": "5.3.3"
   }
 }
