@@ -46,6 +46,10 @@ permalink: /insights/hospital-geo/index.html
 | 합계 |  | 100점 |
 
 
+
+
+![image.png](/assets/uploads/image-1.png)
+
 이 배점은 검색엔진이나 AI 기업의 공식 평가 기준이 아닙니다. 병원의 온라인 운영 수준을 체계적으로 진단하기 위해 연구소가 제안하는 실무형 평가모형입니다.
 
 ## 3. 진단 영역 ① 홈페이지의 기술적 접근성
@@ -239,7 +243,8 @@ AI 진단에서는 다음 내용을 기록합니다.
 
 ## 참고자료
 
-1. Aggarwal et al., GEO: Generative Engine Optimization  
+1. Aggarwal et al., GEO: Generative Engine Optimization
+
 [https://arxiv.org/abs/2311.09735](https://arxiv.org/abs/2311.09735)
 2. Google Search Central, AI 기능과 웹사이트  
 [https://developers.google.com/search/docs/appearance/ai-features?hl=ko](https://developers.google.com/search/docs/appearance/ai-features?hl=ko)
