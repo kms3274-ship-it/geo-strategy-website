@@ -243,19 +243,23 @@ AI 진단에서는 다음 내용을 기록합니다.
 
 ## 참고자료
 
-1. Aggarwal et al., GEO: Generative Engine Optimization
+**1. Aggarwal et al., GEO: Generative Engine Optimization**  
+<https://arxiv.org/abs/2311.09735>
 
-[https://arxiv.org/abs/2311.09735](https://arxiv.org/abs/2311.09735)
-2. Google Search Central, AI 기능과 웹사이트  
-[https://developers.google.com/search/docs/appearance/ai-features?hl=ko](https://developers.google.com/search/docs/appearance/ai-features?hl=ko)
-3. Google Search Central, 유용하고 신뢰할 수 있는 사용자 중심 콘텐츠 제작  
-[https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ko](https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ko)
-4. Google Search Console  
-[https://search.google.com/search-console/](https://search.google.com/search-console/)
-5. 네이버 서치어드바이저  
-[https://searchadvisor.naver.com/](https://searchadvisor.naver.com/)
-6. 국가법령정보센터, 의료법  
-[https://www.law.go.kr/법령/의료법](https://www.law.go.kr/법령/의료법)
+**2. Google Search Central, AI 기능과 웹사이트**  
+<https://developers.google.com/search/docs/appearance/ai-features?hl=ko>
+
+**3. Google Search Central, 유용하고 신뢰할 수 있는 사용자 중심 콘텐츠 제작**  
+<https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ko>
+
+**4. Google Search Console**  
+<https://search.google.com/search-console/>
+
+**5. 네이버 서치어드바이저**  
+<https://searchadvisor.naver.com/>
+
+**6. 국가법령정보센터, 의료법**  
+<https://www.law.go.kr/법령/의료법>
 
 ---
 
@@ -265,8 +269,10 @@ AI GEO 기반 병원·기업 마케팅 대행
 
 대표 김명선
 
-홈페이지: [https://geostrategy.kr](https://geostrategy.kr)
+홈페이지: <https://geostrategy.kr>
 
 상담 문의: [kms3274@gmail.com](mailto:kms3274@gmail.com)
+
+블로그: <https://blog.naver.com/kimms3274>
 
 ※ 본 진단 프레임워크와 배점은 연구소가 제안하는 실무 평가모형으로, 검색엔진이나 생성형 AI 기업의 공식 평가 기준은 아닙니다. 개별 의료광고의 적법성 및 심의 대상 여부는 별도로 확인해야 합니다.

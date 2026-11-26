@@ -312,20 +312,26 @@ GEO 마케팅은 기존 검색 마케팅을 대체하는 단기적인 기술이 
 
 ## 참고자료
 
-1. Aggarwal et al., GEO: Generative Engine Optimization  
-[https://arxiv.org/abs/2311.09735](https://arxiv.org/abs/2311.09735)
-2. Google Search Central, AI 기능과 웹사이트  
-[https://developers.google.com/search/docs/appearance/ai-features?hl=ko](https://developers.google.com/search/docs/appearance/ai-features?hl=ko)
-3. Google Search Central, 검색엔진 최적화 기본 가이드  
-[https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ko](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ko)
-4. Google Search Central, 유용하고 신뢰할 수 있는 사용자 중심 콘텐츠 제작  
-[https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ko](https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ko)
-5. Schema.org, Organization  
-[https://schema.org/Organization](https://schema.org/Organization)
-6. Schema.org, Product  
-[https://schema.org/Product](https://schema.org/Product)
-7. Schema.org, Service  
-[https://schema.org/Service](https://schema.org/Service)
+**1. Aggarwal et al., GEO: Generative Engine Optimization**  
+<https://arxiv.org/abs/2311.09735>
+
+**2. Google Search Central, AI 기능과 웹사이트**  
+<https://developers.google.com/search/docs/appearance/ai-features?hl=ko>
+
+**3. Google Search Central, 검색엔진 최적화 기본 가이드**  
+<https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ko>
+
+**4. Google Search Central, 유용하고 신뢰할 수 있는 사용자 중심 콘텐츠 제작**  
+<https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ko>
+
+**5. Schema.org, Organization**  
+<https://schema.org/Organization>
+
+**6. Schema.org, Product**  
+<https://schema.org/Product>
+
+**7. Schema.org, Service**  
+<https://schema.org/Service>
 
 ---
 
@@ -335,6 +341,8 @@ AI GEO 기반 병원·기업 마케팅 대행
 
 대표 김명선
 
-홈페이지: [https://geostrategy.kr](https://geostrategy.kr)
+홈페이지: <https://geostrategy.kr>
 
 상담 문의: [kms3274@gmail.com](mailto:kms3274@gmail.com)
+
+블로그: <https://blog.naver.com/kimms3274>

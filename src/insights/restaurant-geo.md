@@ -229,16 +229,20 @@ AI 답변은 검색 서비스와 질문, 시점 등에 따라 달라질 수 있�
 
 ## 참고자료
 
-1. Aggarwal et al., GEO: Generative Engine Optimization  
-[https://arxiv.org/abs/2311.09735](https://arxiv.org/abs/2311.09735)
-2. Google Search Central, AI 기능과 웹사이트  
-[https://developers.google.com/search/docs/appearance/ai-features?hl=ko](https://developers.google.com/search/docs/appearance/ai-features?hl=ko)
-3. Google 비즈니스 프로필 고객센터  
-[https://support.google.com/business/?hl=ko](https://support.google.com/business/?hl=ko)
-4. Schema.org, Restaurant  
-[https://schema.org/Restaurant](https://schema.org/Restaurant)
-5. Schema.org, CafeOrCoffeeShop  
-[https://schema.org/CafeOrCoffeeShop](https://schema.org/CafeOrCoffeeShop)
+**1. Aggarwal et al., GEO: Generative Engine Optimization**  
+<https://arxiv.org/abs/2311.09735>
+
+**2. Google Search Central, AI 기능과 웹사이트**  
+<https://developers.google.com/search/docs/appearance/ai-features?hl=ko>
+
+**3. Google 비즈니스 프로필 고객센터**  
+<https://support.google.com/business/?hl=ko>
+
+**4. Schema.org, Restaurant**  
+<https://schema.org/Restaurant>
+
+**5. Schema.org, CafeOrCoffeeShop**  
+<https://schema.org/CafeOrCoffeeShop>
 
 ---
 
@@ -248,8 +252,10 @@ AI GEO 기반 병원·기업 마케팅 대행
 
 대표 김명선
 
-홈페이지: [https://geostrategy.kr](https://geostrategy.kr)
+홈페이지: <https://geostrategy.kr>
 
 상담 문의: [kms3274@gmail.com](mailto:kms3274@gmail.com)
+
+블로그: <https://blog.naver.com/kimms3274>
 
 ※ 본 칼럼의 실행전략과 체크리스트는 연구소의 실무 제안이며, 특정 AI 서비스의 노출이나 추천, 매출 증가를 보장하지 않습니다.
