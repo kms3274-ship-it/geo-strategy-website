@@ -1,11 +1,11 @@
 ---
 permalink: /sitemap.xml
+layout: false
+eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://geostrategy.kr/</loc></url>
   <url><loc>https://geostrategy.kr/insights/</loc></url>
-  <url><loc>https://geostrategy.kr/insights/geo-guide/</loc></url>
-  <url><loc>https://geostrategy.kr/insights/hospital-geo/</loc></url>
-  <url><loc>https://geostrategy.kr/insights/restaurant-geo/</loc></url>
-</urlset>
+{% for post in collections.posts %}{% if post.url %}  <url><loc>https://geostrategy.kr{{ post.url | escape }}</loc></url>
+{% endif %}{% endfor %}</urlset>
